@@ -1,0 +1,594 @@
+{
+  "access": {
+    "embargo": {
+      "active": false,
+      "reason": null
+    },
+    "files": "public",
+    "record": "public",
+    "status": "open"
+  },
+  "created": "2021-05-26T15:40:42.544013+00:00",
+  "custom_fields": {},
+  "deletion_status": {
+    "is_deleted": false,
+    "status": "P"
+  },
+  "files": {
+    "count": 10,
+    "enabled": true,
+    "entries": {
+      "LICENSE": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:38d422ac8a2c9c35c288232576e2e810",
+        "ext": "bin",
+        "id": "c80d2276-f42b-44e0-9813-95082ba209e6",
+        "key": "LICENSE",
+        "links": {
+          "content": "https://zenodo.org/api/records/4783391/files/LICENSE/content",
+          "self": "https://zenodo.org/api/records/4783391/files/LICENSE"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "size": 1874,
+        "storage_class": "L"
+      },
+      "clotho_audio_development.7z": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:c8b05bc7acdb13895bb3c6a29608667e",
+        "ext": "7z",
+        "id": "89155002-d8f7-4a16-a2ac-8ccefce8879a",
+        "key": "clotho_audio_development.7z",
+        "links": {
+          "content": "https://zenodo.org/api/records/4783391/files/clotho_audio_development.7z/content",
+          "self": "https://zenodo.org/api/records/4783391/files/clotho_audio_development.7z"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "size": 4541582263,
+        "storage_class": "L"
+      },
+      "clotho_audio_evaluation.7z": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:4569624ccadf96223f19cb59fe4f849f",
+        "ext": "7z",
+        "id": "9bcd9d73-2ab4-4105-8d89-9be708080d6f",
+        "key": "clotho_audio_evaluation.7z",
+        "links": {
+          "content": "https://zenodo.org/api/records/4783391/files/clotho_audio_evaluation.7z/content",
+          "self": "https://zenodo.org/api/records/4783391/files/clotho_audio_evaluation.7z"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "size": 1249726503,
+        "storage_class": "L"
+      },
+      "clotho_audio_validation.7z": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:7dba730be08bada48bd15dc4e668df59",
+        "ext": "7z",
+        "id": "32533c88-bcea-40b2-9338-0a005bcfff98",
+        "key": "clotho_audio_validation.7z",
+        "links": {
+          "content": "https://zenodo.org/api/records/4783391/files/clotho_audio_validation.7z/content",
+          "self": "https://zenodo.org/api/records/4783391/files/clotho_audio_validation.7z"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "size": 1260701425,
+        "storage_class": "L"
+      },
+      "clotho_captions_development.csv": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:d4090b39ce9f2491908eebf4d5b09bae",
+        "ext": "csv",
+        "id": "c796eabf-444b-4078-819e-0f8f56fbdf6c",
+        "key": "clotho_captions_development.csv",
+        "links": {
+          "content": "https://zenodo.org/api/records/4783391/files/clotho_captions_development.csv/content",
+          "self": "https://zenodo.org/api/records/4783391/files/clotho_captions_development.csv"
+        },
+        "metadata": null,
+        "mimetype": "text/csv",
+        "size": 1336762,
+        "storage_class": "L"
+      },
+      "clotho_captions_evaluation.csv": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:1b16b9e57cf7bdb7f13a13802aeb57e2",
+        "ext": "csv",
+        "id": "6f22aacf-4a5b-4da2-8acd-8f364188c901",
+        "key": "clotho_captions_evaluation.csv",
+        "links": {
+          "content": "https://zenodo.org/api/records/4783391/files/clotho_captions_evaluation.csv/content",
+          "self": "https://zenodo.org/api/records/4783391/files/clotho_captions_evaluation.csv"
+        },
+        "metadata": null,
+        "mimetype": "text/csv",
+        "size": 361995,
+        "storage_class": "L"
+      },
+      "clotho_captions_validation.csv": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:5879e023032b22a2c930aaa0528bead4",
+        "ext": "csv",
+        "id": "491725e6-d5e2-4af6-bf20-c1f4dd70a078",
+        "key": "clotho_captions_validation.csv",
+        "links": {
+          "content": "https://zenodo.org/api/records/4783391/files/clotho_captions_validation.csv/content",
+          "self": "https://zenodo.org/api/records/4783391/files/clotho_captions_validation.csv"
+        },
+        "metadata": null,
+        "mimetype": "text/csv",
+        "size": 367649,
+        "storage_class": "L"
+      },
+      "clotho_metadata_development.csv": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:170d20935ecfdf161ce1bb154118cda5",
+        "ext": "csv",
+        "id": "4ea69aeb-5716-402c-8ad5-9767e1a369ae",
+        "key": "clotho_metadata_development.csv",
+        "links": {
+          "content": "https://zenodo.org/api/records/4783391/files/clotho_metadata_development.csv/content",
+          "self": "https://zenodo.org/api/records/4783391/files/clotho_metadata_development.csv"
+        },
+        "metadata": null,
+        "mimetype": "text/csv",
+        "size": 830797,
+        "storage_class": "L"
+      },
+      "clotho_metadata_evaluation.csv": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:13946f054d4e1bf48079813aac61bf77",
+        "ext": "csv",
+        "id": "cd9d6378-c301-4656-aa4c-02b2a24937b0",
+        "key": "clotho_metadata_evaluation.csv",
+        "links": {
+          "content": "https://zenodo.org/api/records/4783391/files/clotho_metadata_evaluation.csv/content",
+          "self": "https://zenodo.org/api/records/4783391/files/clotho_metadata_evaluation.csv"
+        },
+        "metadata": null,
+        "mimetype": "text/csv",
+        "size": 225311,
+        "storage_class": "L"
+      },
+      "clotho_metadata_validation.csv": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:2e010427c56b1ce6008b0f03f41048ce",
+        "ext": "csv",
+        "id": "801a18de-ab84-4f37-98ac-932661699160",
+        "key": "clotho_metadata_validation.csv",
+        "links": {
+          "content": "https://zenodo.org/api/records/4783391/files/clotho_metadata_validation.csv/content",
+          "self": "https://zenodo.org/api/records/4783391/files/clotho_metadata_validation.csv"
+        },
+        "metadata": null,
+        "mimetype": "text/csv",
+        "size": 224803,
+        "storage_class": "L"
+      }
+    },
+    "order": [],
+    "total_bytes": 7055359382
+  },
+  "id": "4783391",
+  "is_draft": false,
+  "is_published": true,
+  "links": {
+    "access": "https://zenodo.org/api/records/4783391/access",
+    "access_grants": "https://zenodo.org/api/records/4783391/access/grants",
+    "access_links": "https://zenodo.org/api/records/4783391/access/links",
+    "access_request": "https://zenodo.org/api/records/4783391/access/request",
+    "access_users": "https://zenodo.org/api/records/4783391/access/users",
+    "archive": "https://zenodo.org/api/records/4783391/files-archive",
+    "archive_media": "https://zenodo.org/api/records/4783391/media-files-archive",
+    "communities": "https://zenodo.org/api/records/4783391/communities",
+    "communities-suggestions": "https://zenodo.org/api/records/4783391/communities-suggestions",
+    "doi": "https://doi.org/10.5281/zenodo.4783391",
+    "draft": "https://zenodo.org/api/records/4783391/draft",
+    "files": "https://zenodo.org/api/records/4783391/files",
+    "latest": "https://zenodo.org/api/records/4783391/versions/latest",
+    "latest_html": "https://zenodo.org/records/4783391/latest",
+    "media_files": "https://zenodo.org/api/records/4783391/media-files",
+    "parent": "https://zenodo.org/api/records/3490683",
+    "parent_doi": "https://doi.org/10.5281/zenodo.3490683",
+    "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.3490683",
+    "parent_html": "https://zenodo.org/records/3490683",
+    "preview_html": "https://zenodo.org/records/4783391?preview=1",
+    "request_deletion": "https://zenodo.org/api/records/4783391/request-deletion",
+    "requests": "https://zenodo.org/api/records/4783391/requests",
+    "reserve_doi": "https://zenodo.org/api/records/4783391/draft/pids/doi",
+    "self": "https://zenodo.org/api/records/4783391",
+    "self_doi": "https://doi.org/10.5281/zenodo.4783391",
+    "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.4783391",
+    "self_html": "https://zenodo.org/records/4783391",
+    "self_iiif_manifest": "https://zenodo.org/api/iiif/record:4783391/manifest",
+    "self_iiif_sequence": "https://zenodo.org/api/iiif/record:4783391/sequence/default",
+    "versions": "https://zenodo.org/api/records/4783391/versions"
+  },
+  "media_files": {
+    "count": 0,
+    "enabled": false,
+    "entries": {},
+    "order": [],
+    "total_bytes": 0
+  },
+  "metadata": {
+    "creators": [
+      {
+        "affiliations": [
+          {
+            "name": "Audio Research Group, Faculty of Information Technology and Communication Sciences, Tampere University"
+          }
+        ],
+        "person_or_org": {
+          "family_name": "Konstantinos Drossos",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-3605-7127",
+              "scheme": "orcid"
+            }
+          ],
+          "name": "Konstantinos Drossos",
+          "type": "personal"
+        }
+      },
+      {
+        "affiliations": [
+          {
+            "name": "Audio Research Group, Faculty of Information Technology and Communication Sciences, Tampere University"
+          }
+        ],
+        "person_or_org": {
+          "family_name": "Samuel Lipping",
+          "name": "Samuel Lipping",
+          "type": "personal"
+        }
+      },
+      {
+        "affiliations": [
+          {
+            "name": "Audio Research Group, Faculty of Information Technology and Communication Sciences, Tampere University"
+          }
+        ],
+        "person_or_org": {
+          "family_name": "Tuomas Virtanen",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-4604-9729",
+              "scheme": "orcid"
+            }
+          ],
+          "name": "Tuomas Virtanen",
+          "type": "personal"
+        }
+      }
+    ],
+    "description": "<p>Clotho&nbsp;is an audio captioning dataset, now reached version 2. Clotho consists&nbsp;of&nbsp;6974&nbsp;audio samples, and each audio sample has five captions (a total of&nbsp;34 870 captions).&nbsp;Audio samples are of 15 to 30 s duration and captions are eight to 20 words long.&nbsp;</p>\n\n<p>Clotho is thoroughly described in our paper:</p>\n\n<p><em>K. Drossos, S. Lipping and T. Virtanen, &quot;Clotho: an Audio Captioning Dataset,&quot; IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Barcelona, Spain, 2020, pp. 736-740, doi: 10.1109/ICASSP40776.2020.9052990.</em></p>\n\n<p>available online at:&nbsp;<a href=\"https://arxiv.org/abs/1910.09387\">https://arxiv.org/abs/1910.09387</a>&nbsp;and at:&nbsp;<a href=\"https://ieeexplore.ieee.org/document/9052990\">https://ieeexplore.ieee.org/document/9052990</a>&nbsp;</p>\n\n<p><strong>If you use Clotho, please cite our paper.</strong></p>\n\n<p>&nbsp;</p>\n\n<p><strong>To use the dataset, you can use our code at:</strong>&nbsp;<a href=\"https://github.com/audio-captioning/clotho-dataset\">https://github.com/audio-captioning/clotho-dataset</a>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>These are the files for the development, validation, and evaluation splits of Clotho dataset.&nbsp;</p>\n\n<p>--------------------------------------------------------------------------------------------------------</p>\n\n<p><strong>== Changes in version 2.1 ==</strong></p>\n\n<p>In version 2.1 of Clotho, we fixed some files that were corrupted from the compression and transferring processes (around 150 files) and we also replaced some characters that were illegal for most filesystems,&nbsp;e.g. &quot;:&quot; (around 10 files).&nbsp;</p>\n\n<p>Please use this version for your experiments.&nbsp;</p>\n\n<p><strong>== Changes in version 2 ==</strong></p>\n\n<p>In version 2 of Clotho,&nbsp;there are audio files added in the development split and a new validation split is added. There are no changes in the evaluation split.&nbsp;</p>\n\n<p>Specifically:&nbsp;</p>\n\n<ul>\n\t<li>Now there are 3840 audio files in the development split. In Clotho version 1, there were&nbsp;2893 audio files. Now, 947 new audio files are added.&nbsp;</li>\n\t<li>There are 1046 new audio files in the validation split.&nbsp;</li>\n</ul>\n\n<p>All new captions are treated as in version 1 of Clotho, i.e. having word consistency,&nbsp;no named entities, no speech transcription, and no hapax legomena between splits (i.e. words appearing only in one of the splits).&nbsp;</p>\n\n<p>--------------------------------------------------------------------------------------------------------</p>\n\n<p><strong>== Usage ==</strong></p>\n\n<p>To use the dataset you have to:</p>\n\n<ol>\n\t<li>Download the audio files:&nbsp;clotho_audio_development.7z,clotho_audio_validation.7z, and&nbsp;clotho_audio_evalution.7z</li>\n\t<li>Download the files with the captions:&nbsp;clotho_captions_development.csv, clotho_captions_validation.csv,&nbsp;and&nbsp;clotho_captions_evaluation.csv</li>\n\t<li>Download the files with the associated metadata:&nbsp;clotho_metadata_development.csv, clotho_metadata_validation.csv,&nbsp;and&nbsp;clotho_metadata_evaluation.csv</li>\n\t<li>Extract the audio files</li>\n\t<li>Then you can use each audio file with its corresponding captions</li>\n</ol>\n\n<p>--------------------------------------------------------------------------------------------------------</p>\n\n<p><strong>== License&nbsp;==</strong></p>\n\n<p>The audio files in the archives:</p>\n\n<ul>\n\t<li>clotho_audio_development.7z,</li>\n\t<li>clotho_audio_validation.7z,&nbsp;and</li>\n\t<li>clotho_audio_evalution.7z</li>\n</ul>\n\n<p>and the associated meta-data in the CSV files:</p>\n\n<ul>\n\t<li>clotho_metadata_development.csv</li>\n\t<li>clotho_metadata_validation.csv</li>\n\t<li>clotho_metadata_evaluation.csv</li>\n</ul>\n\n<p>are under the corresponding licences (<strong><em>mostly CreativeCommons with attribution</em></strong>) of Freesound [1] platform, mentioned explicitly in the CSV files for each of the audio files. That is, each audio file in the 7z archives is listed in the CSV files with the meta-data. The meta-data for each file are:&nbsp;</p>\n\n<ul>\n\t<li>File name</li>\n\t<li>Keywords</li>\n\t<li>URL for the original audio file</li>\n\t<li>Start and ending samples for the excerpt that is used in the Clotho dataset</li>\n\t<li>Uploader/user in the Freesound platform&nbsp;(manufacturer)</li>\n\t<li>Link to the licence of the file</li>\n</ul>\n\n<p>The captions in the files:</p>\n\n<ul>\n\t<li>clotho_captions_development.csv</li>\n\t<li>clotho_captions_validation.csv</li>\n\t<li>clotho_captions_evaluation.csv</li>\n</ul>\n\n<p>are under the Tampere University licence, described in the LICENCE file (<strong><em>mainly a non-commercial with attribution licence</em></strong>).&nbsp;</p>\n\n<p>--------------------------------------------------------------------------------------------------------</p>\n\n<p><strong>== References ==</strong><br>\n[1]&nbsp;Frederic Font, Gerard Roma, and Xavier Serra. 2013. Freesound technical demo. In Proceedings of the 21st ACM international conference on Multimedia (MM &#39;13). ACM, New York, NY, USA, 411-412. DOI: https://doi.org/10.1145/2502081.2502245</p>",
+    "funding": [
+      {
+        "award": {
+          "acronym": "EVERYSOUND",
+          "id": "00k4n6c32::637422",
+          "identifiers": [
+            {
+              "identifier": "https://cordis.europa.eu/projects/637422",
+              "scheme": "url"
+            }
+          ],
+          "number": "637422",
+          "program": "H2020-EU.1.1.",
+          "title": {
+            "en": "Computational Analysis of Everyday Soundscapes"
+          }
+        },
+        "funder": {
+          "id": "00k4n6c32",
+          "name": "European Commission"
+        }
+      }
+    ],
+    "languages": [
+      {
+        "id": "eng",
+        "title": {
+          "en": "English"
+        }
+      }
+    ],
+    "publication_date": "2021-05-26",
+    "publisher": "Zenodo",
+    "references": [
+      {
+        "reference": "Frederic Font, Gerard Roma, and Xavier Serra. 2013. Freesound technical demo. In Proceedings of the 21st ACM international conference on Multimedia (MM '13). ACM, New York, NY, USA, 411-412. DOI: https://doi.org/10.1145/2502081.2502245"
+      }
+    ],
+    "related_identifiers": [
+      {
+        "identifier": "https://github.com/audio-captioning/clotho-dataset",
+        "relation_type": {
+          "id": "issupplementedby",
+          "title": {
+            "de": "Wird erg\u00e4nzt durch",
+            "en": "Is supplemented by"
+          }
+        },
+        "resource_type": {
+          "id": "software",
+          "title": {
+            "de": "Software",
+            "en": "Software"
+          }
+        },
+        "scheme": "url"
+      },
+      {
+        "identifier": "https://arxiv.org/abs/1910.09387",
+        "relation_type": {
+          "id": "issupplementto",
+          "title": {
+            "de": "Erg\u00e4nzt",
+            "en": "Is supplement to"
+          }
+        },
+        "resource_type": {
+          "id": "publication-conferencepaper",
+          "title": {
+            "de": "Konferenzbeitrag",
+            "en": "Conference paper"
+          }
+        },
+        "scheme": "url"
+      }
+    ],
+    "resource_type": {
+      "id": "dataset",
+      "title": {
+        "de": "Datensatz",
+        "en": "Dataset"
+      }
+    },
+    "rights": [
+      {
+        "description": {
+          "en": ""
+        },
+        "id": "other-at",
+        "title": {
+          "en": "Other (Attribution)"
+        }
+      }
+    ],
+    "subjects": [
+      {
+        "subject": "Clotho"
+      },
+      {
+        "subject": "Audio captioning"
+      },
+      {
+        "subject": "Dataset"
+      },
+      {
+        "subject": "Audio processing"
+      },
+      {
+        "subject": "Signal processing"
+      },
+      {
+        "subject": "Machine listening"
+      },
+      {
+        "subject": "Computational auditory scene analysis"
+      },
+      {
+        "subject": "Captioning"
+      },
+      {
+        "subject": "Deep learning"
+      }
+    ],
+    "title": "Clotho dataset",
+    "version": "2.1"
+  },
+  "parent": {
+    "access": {
+      "owned_by": {
+        "user": "41005"
+      }
+    },
+    "communities": {
+      "entries": [
+        {
+          "access": {
+            "member_policy": "open",
+            "members_visibility": "public",
+            "record_submission_policy": "open",
+            "review_policy": "open",
+            "visibility": "public"
+          },
+          "children": {
+            "allow": false
+          },
+          "created": "2016-02-04T16:49:19+00:00",
+          "custom_fields": {},
+          "deletion_status": {
+            "is_deleted": false,
+            "status": "P"
+          },
+          "id": "d106c902-7853-4508-b5cd-02edf034d864",
+          "links": {},
+          "metadata": {
+            "curation_policy": "",
+            "page": "",
+            "title": "Tampere University, Audio Research Group"
+          },
+          "revision_id": 0,
+          "slug": "tut-arg",
+          "updated": "2019-02-28T21:33:27.414846+00:00"
+        },
+        {
+          "access": {
+            "member_policy": "open",
+            "members_visibility": "public",
+            "record_submission_policy": "open",
+            "review_policy": "open",
+            "visibility": "public"
+          },
+          "children": {
+            "allow": false
+          },
+          "created": "2020-03-05T09:13:09.835967+00:00",
+          "custom_fields": {},
+          "deletion_status": {
+            "is_deleted": false,
+            "status": "P"
+          },
+          "id": "ecce9034-d26b-4457-a982-a489806e78c2",
+          "links": {},
+          "metadata": {
+            "curation_policy": "<p>This community accepts anything that is related to audio captioning, but will reject anything that is not related to audio captioning.</p>\r\n",
+            "description": "A community to share code, systems, pre-trained weights, and other things for automated audio captioning.",
+            "page": "",
+            "title": "Audio Captioning"
+          },
+          "revision_id": 0,
+          "slug": "audio-captioning",
+          "updated": "2020-03-05T10:07:36.732696+00:00"
+        },
+        {
+          "access": {
+            "member_policy": "open",
+            "members_visibility": "restricted",
+            "record_submission_policy": "open",
+            "review_policy": "closed",
+            "visibility": "public"
+          },
+          "children": {
+            "allow": true
+          },
+          "created": "2022-11-23T15:53:29.436323+00:00",
+          "custom_fields": {},
+          "deletion_status": {
+            "is_deleted": false,
+            "status": "P"
+          },
+          "id": "f0a8b890-f97a-4eb2-9eac-8b8a712d3a6c",
+          "links": {},
+          "metadata": {
+            "curation_policy": "<h2>Curation policy</h2>\n<p>The EU Open Research Repository serves as a repository for research outputs (data, software, posters, presentations, publications, etc) which have been funded under an EU research funding programme such as Horizon Europe, Euratom or earlier Framework Programmes.</p>\n<p>The community is managed by CERN on behalf of the European Commission.&nbsp;</p>\n<p><a href=\"https://about.zenodo.org/policies/\">Zenodo&rsquo;s general policies</a> and <a href=\"https://about.zenodo.org/terms/\">Terms of Use</a> apply to all content.</p>\n<h3>Scope</h3>\n<p>The EU Open Research Repository accepts all digital research objects which is a research output stemming from one of EU&rsquo;s research and innovation funding programmes. The funding programmes currently include:</p>\n<ul>\n<li>\n<p>Horizon Europe (including ERC, MSCA), earlier Framework Programmes (eg Horizon 2020) as well as Euratom.</p>\n</li>\n</ul>\n<p>In line with the principle as open as possible, as closed as necessary both public and restricted content is accepted. See note on how <a href=\"https://about.zenodo.org/infrastructure/\">Zenodo handles restricted content</a>.</p>\n<h3>Content submission</h3>\n<p>EU programme beneficiaries are eligible to submit content to the community. The community supports three types of content submissions:</p>\n<ul>\n<li>\n<p>Submission via an EU Project Community (through user interface or programmatic APIs).</p>\n</li>\n<li>\n<p>Submission directly to the EU Open Research Repository.</p>\n</li>\n<li>\n<p>Automated harvesting from existing Zenodo content.</p>\n</li>\n</ul>\n<h4>Project community (preferred)</h4>\n<p>A representative of an EU project may request an EU Project Community and invite other project participants as members of the community. The project community is linked to one or more European Commission grants. All records in the project community are automatically integrated into the EU Open Research Repository immediately upon acceptance into the project community.&nbsp;</p>\n<h4>Direct submission</h4>\n<p>Any user may submit a record directly to the EU Open Research Repository. The submission will be moderated by Zenodo staff for compliance with the minimal required metadata requirements and its correctness.</p>\n<h4>Automated harvesting</h4>\n<p>Records found among Zenodo&rsquo;s existing content will on a regular basis automatically be integrated if they are found to comply with the requirements. The submissions through this method are integrated into the EU Open Research Repository with delay in a fully automated way.</p>\n<h3>Descriptive information</h3>\n<h4>Minimal metadata requirements</h4>\n<p>Records in the EU Open Research Repository are required to comply with the following minimal metadata requirements:</p>\n<ul>\n<li>\n<p>Visibility: Both public and restricted (with or without embargo and/or access request)</p>\n</li>\n<li>\n<p>Resource types: All resource types.</p>\n</li>\n<li>\n<p>Licenses: Public and embargoed records MUST specify a license. The chosen license SHOULD be compliant with the Horizon Europe open science requirements (see <a href=\"/communities/eu/pages/open-science\">Open Science in Horizon Europe</a>)</p>\n</li>\n<li>\n<p>Funding information: Records MUST specify at least one grant from the European Commission.</p>\n</li>\n<li>Journal articles: Records MUST specify at the publishing venue (e.g. the journal the article was published in).</li>\n<li>\n<p>Creators: Creators SHOULD be identified with a persistent identifier (e.g. ORCID, GND, &hellip;), and affiliations SHOULD be identified with a persistent identifier (e.g. ROR, ISNI, &hellip;)</p>\n</li>\n<li>\n<p>Subjects: Records SHOULD specify one or more fields of science from the <a href=\"https://op.europa.eu/en/web/eu-vocabularies/euroscivoc\">European Science Vocabulary</a>.</p>\n</li>\n</ul>\n<p>These metadata requirements comes from the related open science requirements in Horizon Europe which are detailed in each project's grant agreement.</p>\n<h3>Review &amp; moderation</h3>\n<p>All submissions undergo automated curation checks for compliance with the policy. Submissions through project communities are in addition reviewed by the project community. Submission directly to the EU Open Research Repository is in addiotn reviewed by Zenodo staff.</p>\n<p>Community curators may at any point edit metadata of the records in the community without notice through human or automated processing. The curators may at their sole discretion remove records from the community that are deemed not to comply with the content and curation policy or which are deemed of insufficient quality.</p>\n<h3>Updates</h3>\n<p>The content and curation policy is subject to change by the community owner at any time and without notice, other than through updating this page.</p>",
+            "description": "Open repository for EU-funded research outputs from Horizon Europe, Euratom, and earlier Framework Programmes.",
+            "funding": [
+              {
+                "funder": {
+                  "id": "00k4n6c32"
+                }
+              }
+            ],
+            "organizations": [
+              {
+                "id": "00k4n6c32"
+              }
+            ],
+            "page": "<h2>About</h2>\n<p>The EU Open Research Repository is a Zenodo-community dedicated to fostering open science and enhancing the visibility and accessibility of research outputs funded by the European Union. The community is managed by CERN on behalf of the European Commission.</p>\n<h3>Mission</h3>\n<p>The mission of the repository is to support the implementation of the EU's open science policy, providing a trusted and comprehensive space for researchers to share their research outputs such as data, software, reports, presentations, posters and more. The EU Open Research Repository simplifies the process of complying with open science requirements, ensuring that research outputs from Horizon Europe, Euratom, and earlier Framework Programmes are freely accessible, thereby accelerating scientific discovery and innovation.</p>\n<h3>EU Open Research Repository vs Open Research Europe (ORE)</h3>\n<p>The EU Open Research Repository serves as a complementary platform to the <a href=\"https://open-research-europe.ec.europa.eu/\">Open Research Europe</a> (ORE) publishing platform. Open Research Europe focuses on providing a publishing venue for peer-reviewed articles, ensuring that research meets rigorous academic standards. The EU Open Research Repository provides a space for all the other research outputs including data sets, software, posters, and presentations that are out of scope for ORE. This holistic approach enables researchers to not only publish their findings but also share the underlying data and materials that support their work, fostering transparency and reproducibility in the scientific process.&nbsp;</p>\n<h3>Funding</h3>\n<p>The EU Open Research Repository is funded by the European Union under grant agreement no. <a href=\"https://cordis.europa.eu/project/id/101122956\">101122956</a> (HORIZON-ZEN). For more information about the project see&nbsp;<a href=\"https://about.zenodo.org/projects/horizon-zen/\">https://about.zenodo.org/projects/horizon-zen/.</a></p>",
+            "title": "EU Open Research Repository",
+            "type": {
+              "id": "organization"
+            },
+            "website": "https://research-and-innovation.ec.europa.eu"
+          },
+          "revision_id": 23,
+          "slug": "eu",
+          "theme": {
+            "brand": "horizon",
+            "enabled": true,
+            "style": {
+              "font": {
+                "family": "Arial, sans-serif",
+                "size": "16px",
+                "weight": 600
+              },
+              "mainHeaderBackgroundColor": "#FFFFFF",
+              "primaryColor": "#004494",
+              "primaryTextColor": "#FFFFFF",
+              "secondaryColor": "#FFD617",
+              "secondaryTextColor": "#000000",
+              "tertiaryColor": "#e3eefd",
+              "tertiaryTextColor": "#1c5694"
+            }
+          },
+          "updated": "2025-03-30T18:32:53.868593+00:00"
+        }
+      ],
+      "ids": [
+        "d106c902-7853-4508-b5cd-02edf034d864",
+        "ecce9034-d26b-4457-a982-a489806e78c2",
+        "f0a8b890-f97a-4eb2-9eac-8b8a712d3a6c"
+      ]
+    },
+    "id": "3490683",
+    "pids": {
+      "doi": {
+        "client": "datacite",
+        "identifier": "10.5281/zenodo.3490683",
+        "provider": "datacite"
+      }
+    }
+  },
+  "pids": {
+    "doi": {
+      "client": "datacite",
+      "identifier": "10.5281/zenodo.4783391",
+      "provider": "datacite"
+    },
+    "oai": {
+      "identifier": "oai:zenodo.org:4783391",
+      "provider": "oai"
+    }
+  },
+  "revision_id": 6,
+  "stats": {
+    "all_versions": {
+      "data_volume": 96567440625344.0,
+      "downloads": 103911,
+      "unique_downloads": 65992,
+      "unique_views": 40766,
+      "views": 45663
+    },
+    "this_version": {
+      "data_volume": 63077680334375.0,
+      "downloads": 55335,
+      "unique_downloads": 33931,
+      "unique_views": 13239,
+      "views": 14990
+    }
+  },
+  "status": "published",
+  "swh": {},
+  "updated": "2021-05-30T02:20:54.275726+00:00",
+  "versions": {
+    "index": 3,
+    "is_latest": true
+  }
+}
